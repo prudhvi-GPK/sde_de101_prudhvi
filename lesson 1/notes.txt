@@ -1,0 +1,20 @@
+It will start with asking the right questions from the business.
+
+Frist I would start with uderstanding the business needs. Like what is thier business goals and what they want to achieve.
+For that i will setup a stakeholder meeting to understand their need and for requriement gathering. 
+
+what are thier analytic needs, What specific metrics they wnat to focus on and waht are the alaytical capabilities we need.
+
+Define cLear use cases based on the business needs.
+
+Identifying the Data sources and asked if there will need for additional data, documenet the current data sources and check the quality of the existing data. 
+
+next steps involes setting for the process or workflow like data integration , transformation , warehousing etc.. it also incudes ETL/ELT porcess identification.
+
+Now defing the architecture loke the tools need for warehousing, trasformation and vizualisation.
+
+develop using a proper backlogs sytem work on each usecase.
+
+deploy and debug
+
+maintance and support
